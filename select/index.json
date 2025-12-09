@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "流星雨",
+  "base_artist": "Argonavis",
+  "createdAt": "2025-12-09T13:13:16.582455Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "流星雨",
+      "artist": "F4",
+      "has_synced": true,
+      "path": "select/01_流星雨_F4.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "流星雨 (Lady Luck) - Chinese Version",
+      "artist": "EXO",
+      "has_synced": true,
+      "path": "select/02_流星雨_(Lady_Luck)_-_Chinese_Version_EXO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "流星雨 (Lady Luck)",
+      "artist": "EXO",
+      "has_synced": true,
+      "path": "select/03_流星雨_(Lady_Luck)_EXO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "流星雨 - Liu Xing Yu",
+      "artist": "F4",
+      "has_synced": true,
+      "path": "select/04_流星雨_-_Liu_Xing_Yu_F4.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "流星雨",
+      "artist": "F4",
+      "has_synced": true,
+      "path": "select/05_流星雨_F4.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "流星雨",
+      "artist": "LOCK G",
+      "has_synced": false,
+      "path": "select/06_流星雨_LOCK_G.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "流星雨 - Liu Xing Yu",
+      "artist": "F4",
+      "has_synced": true,
+      "path": "select/07_流星雨_-_Liu_Xing_Yu_F4.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "流星雨",
+      "artist": "楊千嬅",
+      "has_synced": false,
+      "path": "select/08_流星雨_楊千嬅.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "流星雨",
+      "artist": "孫淑媚",
+      "has_synced": false,
+      "path": "select/09_流星雨_孫淑媚.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "流星雨",
+      "artist": "JO1",
+      "has_synced": true,
+      "path": "select/10_流星雨_JO1.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "流星雨",
+      "artist": "Argonavis",
+      "has_synced": false,
+      "path": "select/11_流星雨_Argonavis.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "流星雨",
+      "artist": "杨千嬅",
+      "has_synced": false,
+      "path": "select/12_流星雨_杨千嬅.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "流星雨 (2020 YouTube Music Night)",
+      "artist": "Gin Lee",
+      "has_synced": true,
+      "path": "select/13_流星雨_(2020_YouTube_Music_Night)_Gin_Lee.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "流星雨(Live)",
+      "artist": "F4",
+      "has_synced": false,
+      "path": "select/14_流星雨(Live)_F4.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "流星雨",
+      "artist": "JO1",
+      "has_synced": true,
+      "path": "select/15_流星雨_JO1.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "流星雨",
+      "artist": "Argonavis",
+      "has_synced": false,
+      "path": "select/pl_01_流星雨_Argonavis.txt"
+    }
+  ]
+}
